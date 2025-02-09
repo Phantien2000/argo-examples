@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: phantien1/springboot-k8s-demo
-  tag: latest
+  tag: 1.0
